@@ -1,8 +1,9 @@
 import styles from './App.module.css';
+import { QRComponent } from './Components';
 
 function App() {
   return <div className={styles.App}>
-    <p className={styles.text}>Hello</p>
+    <QRComponent />
   </div>
 
 }
