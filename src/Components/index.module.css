@@ -10,6 +10,7 @@
 .QRCode {
   border-radius: 10px;
   height: 288px;
+  width: 288px;
   margin: 15px;
 }
 .textBox {
